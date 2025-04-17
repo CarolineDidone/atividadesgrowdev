@@ -1,0 +1,33 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+line-height: 1.5;
+}
+
+section.professional-experiences > p.job-description {
+    background-color: #d7e4fa7a;
+}
+
+a {
+    text-decoration: none;
+}
+
+a :hover {
+    cursor: pointer;
+}
+
+.section-title {
+    font-size: 24px;
+    background-color: #d7e4faed;
+}
+
+#copyright-text {
+    font-size: 14px;
+    color: #808080;
+    text-align: center;
+}
+
