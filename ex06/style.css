@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3B63B6;
+    padding: 6px;
+}
+
+nav.menu li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 20px;
+}
+
+nav.menu li > a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+img {
+ width: 400px;
+}
+
+h2 {
+    font-size: 2.6em;
+    margin: 10px 0;
+}
+
+section {
+    text-align: center;
+    padding: 40px;
+    border-bottom: 1px solid #80808093;
+}
+
+section > p {
+    line-height: 1.3em;
+}
+
+button.botao-padrao {
+    padding: 18px 30px;
+    border-radius: 50px;
+    border: 1px solid #3B63B6;
+    background-color: #3B63B6;
+    font-size: 0.9em;
+    color: white;
+    margin: 24px 0;
+}
+
+table {
+    width: 70%;
+    margin: 12px auto;
+}
+
+table, td, th {
+    border: 1px solid #80808093;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 12px ;
+}
+
+section#planos {
+    padding: 40px 0;
+}
+
+footer {
+    padding: 24px;
+}
+
+footer > p {
+    text-align: center;
+    font-size: 0.8em;
+    color: grey;
+    line-height: 1.5em;
+}
+
+footer > p > a {
+    cursor: pointer;
+    color: grey;
+}
+
+footer > p > a:hover {
+    background-color: grey;
+    color: white;
+    padding: 3px 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
