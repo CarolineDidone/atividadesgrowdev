@@ -15,3 +15,6 @@ O curso irá abordar tópicos dos mais básicos ao avançado em HTML, CSS, JavaS
 - Ex 01: Elementos básicos do HTML (Headings, Parágrafos e Formatação de Textos);
 - Ex 02: Imagens, Favicon, links e listas;
 - Ex 03: HTML semântico, tabelas e atributos;
+- Ex 04: HTML, noçoes de box model e CSS;
+- Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;
+- Ex 06: HTML e CSS. Noções de tabelas em uma página;
