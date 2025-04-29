@@ -18,3 +18,4 @@ O curso irá abordar tópicos dos mais básicos ao avançado em HTML, CSS, JavaS
 - Ex 04: HTML, noçoes de box model e CSS;
 - Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;
 - Ex 06: HTML e CSS. Noções de tabelas em uma página;
+- Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes.
