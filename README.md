@@ -12,11 +12,11 @@ Status: em andamento ⌛
 
 # Tecnologias estudadas
 
-✅ Ex 01: Elementos básicos do HTML (Headings, Parágrafos e Formatação de Textos);
-✅ Ex 02: HTML. Imagens, Favicon, links e listas;
-✅ Ex 03: HTML semântico, tabelas e atributos;
-✅ Ex 04: HTML e CSS. Noções de box model e CSS;
-✅ Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;
-✅ Ex 06: HTML e CSS. Noções de tabelas em uma página;
-✅ Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes;
-✅ Ex 08: HTML e CSS. Noções dos tipos de displays. Atividade em displays flex;
+✅ Ex 01: Elementos básicos do HTML (Headings, Parágrafos e Formatação de Textos);<br>
+✅ Ex 02: HTML. Imagens, Favicon, links e listas;<br>
+✅ Ex 03: HTML semântico, tabelas e atributos;<br>
+✅ Ex 04: HTML e CSS. Noções de box model e CSS;<br>
+✅ Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;<br>
+✅ Ex 06: HTML e CSS. Noções de tabelas em uma página;<br>
+✅ Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes;<br>
+✅ Ex 08: HTML e CSS. Noções dos tipos de displays. Atividade em displays flex;<br>
