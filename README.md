@@ -1,21 +1,22 @@
 # :computer: Atividades Grow Dev
 
-Status: em andamento
+Status: em andamento ⌛
 
-Participo da trilha de estudos em Desenvolvimento Web Front-end, na Grow Dev.
+🚀 Participo da trilha de estudos em Desenvolvimento Web Front-end, na Grow Dev.
 
-Este repositório conterá todos os exercícios da trilha, me dando a oportunidade de fixar e treinar todo conhecimento adquirido para minha evolução.
+👩🏻‍💻 Este repositório conterá todos os exercícios da trilha, me dando a oportunidade de fixar e treinar todo conhecimento adquirido para minha evolução.
 
-O curso irá abordar tópicos dos mais básicos ao avançado em HTML, CSS, JavaScript e bibliotecas como ReactJS e Typescript.
+📚 O curso irá abordar tópicos dos mais básicos ao avançado em HTML, CSS, JavaScript e bibliotecas como ReactJS e Typescript.
 
 ---
 
 # Tecnologias estudadas
 
-- Ex 01: Elementos básicos do HTML (Headings, Parágrafos e Formatação de Textos);
-- Ex 02: Imagens, Favicon, links e listas;
-- Ex 03: HTML semântico, tabelas e atributos;
-- Ex 04: HTML, noçoes de box model e CSS;
-- Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;
-- Ex 06: HTML e CSS. Noções de tabelas em uma página;
-- Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes.
+✅ Ex 01: Elementos básicos do HTML (Headings, Parágrafos e Formatação de Textos);
+✅ Ex 02: HTML. Imagens, Favicon, links e listas;
+✅ Ex 03: HTML semântico, tabelas e atributos;
+✅ Ex 04: HTML e CSS. Noções de box model e CSS;
+✅ Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;
+✅ Ex 06: HTML e CSS. Noções de tabelas em uma página;
+✅ Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes;
+✅ Ex 08: HTML e CSS. Noções dos tipos de displays. Atividade em displays flex;
