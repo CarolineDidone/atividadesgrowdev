@@ -1,0 +1,169 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+   font-family: "Roboto", sans-serif;
+   line-height: 1.3em;
+   margin: 0;
+   padding: 0;
+}
+
+
+header {
+   background-color: #3B63B6;
+   padding: 24px;
+}
+
+
+nav.menu ul {
+   display: flex;
+   gap: 42px;
+}
+
+
+nav.menu li {
+   list-style-type: none;
+}
+
+
+nav.menu li > a {
+   text-decoration: none;
+   color: #D1D1D1;
+   text-transform: uppercase;
+   font-weight: bold;
+}
+
+
+nav.menu li > a:hover {
+   color: white;
+   text-decoration: underline;
+}
+
+
+img {
+   width: 30%;
+}
+
+
+h2 {
+   font-size: 2.3em;
+   margin: 10px 0;
+}
+
+
+section {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding: 40px;
+   border-bottom: 1px solid #80808093;
+}
+
+
+section.pagina-inicial {
+   flex-direction: row-reverse;
+   gap:40px;
+}
+
+
+section.quem-somos {
+   gap:40px;
+}
+
+
+section.quem-somos > div {
+   text-align: left;
+   max-width: 40%;
+   white-space: normal;
+   overflow-wrap: break-word;
+}
+
+
+section.quem-somos > img {
+   max-width: 30%;
+}
+
+
+button.botao-padrao {
+   padding: 18px 30px;
+   border-radius: 50px;
+   border: 1px solid #3B63B6;
+   background-color: #3B63B6;
+   font-size: 0.9em;
+   color: white;
+   margin: 24px 0;
+}
+
+
+button.botao-padrao:hover {
+   cursor: pointer;
+   background-color:#3b64b6ee;
+   border: 1px solid #3b64b6ee;
+   color: white;
+   font-weight: bold;
+}
+
+
+section#planos {
+   padding: 40px 0;
+   flex-direction: column;
+}
+
+
+table {
+   width: 70%;
+}
+
+
+table, td, th {
+   border: 1px solid #80808093;
+   border-collapse: collapse;
+}
+
+
+td, th {
+   padding: 12px ;
+}
+
+
+footer {
+   padding: 24px;
+}
+
+
+footer > p {
+   text-align: center;
+   font-size: 0.8em;
+   color: grey;
+   line-height: 1.5em;
+}
+
+
+footer > p > a {
+   cursor: pointer;
+   color: grey;
+}
+
+
+footer > p > a:hover {
+   background-color: grey;
+   color: white;
+   padding: 3px 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
+
+
+a#botao-flutuante {
+   position: fixed;
+   right: 20px;
+   bottom: 20px;
+}
+
+
+a#botao-flutuante > img {
+   width: 40px;
+}
