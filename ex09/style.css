@@ -1,0 +1,168 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+   font-family: "Roboto", sans-serif;
+   line-height: 1.3em;
+   margin: 0;
+   padding: 0;
+}
+
+header {
+   background-color: #3B63B6;
+   padding: 24px;
+}
+
+nav.menu li {
+   list-style-type: none;
+   margin: 12px o;
+}
+
+nav.menu li > a {
+   text-decoration: none;
+   color: white;
+   text-transform: uppercase;
+   font-weight: bold;
+}
+
+h2 {
+   font-size: 40px;
+   margin: 8px 0 24px 0;
+}
+
+section {
+   text-align: center;
+   padding: 48px 24px;
+   border-bottom: 1px solid #cccccc;
+}
+
+button.botao-padrao {
+   padding: 18px 48px;
+   border-radius: 48px;
+   border: 1px solid #3B63B6;
+   background-color: #3B63B6;
+   font-size: 12px;
+   color:  white;
+   margin: 24px 0;
+}
+
+section.quem-somos > div > p {
+   text-align: left;
+}
+
+div.container-tabela {
+   width: 100%;
+   overflow-x: scroll;
+}
+
+table {
+   min-width: 450px;
+}
+
+table, td, th {
+   border: 1px solid #cccccc;
+   border-collapse: collapse;
+   margin: 0 auto;
+}
+
+td, th {
+   padding: 12px;
+}
+
+tbody th {
+   text-align: left;
+}
+
+a#botao-flutuante {
+      position: fixed;
+      right: 5px;
+      bottom: 5px;
+}
+
+a#botao-flutuante > img {
+   width: 50px;
+}
+
+footer {
+   text-align: center;
+   padding: 24px;
+}
+
+footer > p > a {
+   cursor: pointer;
+   color: grey;
+}
+
+@media screen and (min-width: 768px) {
+   nav.menu > ul {
+      display: flex;
+      gap: 48px;
+   }
+
+   div.container-tabela {
+      width: 100%;
+      overflow: hidden;
+   }
+
+   table {
+      width: 70%;
+   }
+
+   section img {
+      width: 70%;
+   }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+   sectiom img {
+      width: 70%;
+   }
+
+   section.quem-somos > div {
+      padding: 0 24px;
+   }
+}
+
+@media screen and (min-width: 992px) {
+   nav.menu li > a {
+      color: #cccccc;
+   }
+
+   nav.menu li > a:hover {
+      color: white;
+      text-decoration: underline;
+   }
+
+   section img {
+      width: 40%;
+   }
+
+   button.botao-padrao:hover {
+      cursor: pointer;
+      font-weight: bold;
+   }
+
+   section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+
+   section.pagina-inicial {
+      flex-direction: row-reverse;
+      gap: 24px;
+   }
+
+   section.quem-somos {
+      gap: 48px;
+      text-align: left;
+   }
+
+   section.quem-somos > div {
+      width: 50%;
+   }
+
+      section#planos {
+         flex-direction: column;
+      }
+}
