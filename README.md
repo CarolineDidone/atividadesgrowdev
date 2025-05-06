@@ -20,3 +20,4 @@ Status: em andamento ⌛
 ✅ Ex 06: HTML e CSS. Noções de tabelas em uma página;<br>
 ✅ Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes;<br>
 ✅ Ex 08: HTML e CSS. Noções dos tipos de displays. Atividade em displays flex;<br>
+✅ Ex 09: HTML e CSS. Responsividade a vários tamanhos de dispositivos e início do uso de @media no CSS.
