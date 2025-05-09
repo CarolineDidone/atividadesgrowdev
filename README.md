@@ -1,6 +1,6 @@
-# :computer: Atividades Grow Dev
+# 💻 Atividades da Formação GrowDev
 
-Status: em andamento ⌛
+Status: **em andamento** ⌛
 
 🚀 Participo da trilha de estudos em Desenvolvimento Web Front-end, na Grow Dev.
 
@@ -10,14 +10,29 @@ Status: em andamento ⌛
 
 ---
 
-# Tecnologias estudadas
+# ⌨️ Tecnologias estudadas
 
-✅ Ex 01: Elementos básicos do HTML (Headings, Parágrafos e Formatação de Textos);<br>
-✅ Ex 02: HTML. Imagens, Favicon, links e listas;<br>
-✅ Ex 03: HTML semântico, tabelas e atributos;<br>
-✅ Ex 04: HTML e CSS. Noções de box model e CSS;<br>
-✅ Ex 05: HTML e CSS. Noções de links, posicionamentos em uma página;<br>
-✅ Ex 06: HTML e CSS. Noções de tabelas em uma página;<br>
-✅ Ex 07: HTML e CSS. Aprendizado sobre positions e pseudo-classes;<br>
-✅ Ex 08: HTML e CSS. Noções dos tipos de displays. Atividade em displays flex;<br>
-✅ Ex 09: HTML e CSS. Responsividade a vários tamanhos de dispositivos e início do uso de @media no CSS.
+🟠 *FUNDAMENTOS DO DESENVOLVIMENTO FRONT-END*
+<br><br>
+❕ Neste módulo, foram apresentados os conceitos de HTML e CSS, unidos as boas práticas na área do desenvolvimento.
+<br><br>
+✅ Ex 01: **Conceitos do HTML** (não responsivo);
+<br>
+✅ Ex 02: **Imagens e Links** (não responsivo);
+<br>
+✅ Ex 03: **Tabelas, atributos e HTML Semântico** (não responsivo);
+<br>
+✅ Ex 04: **Base CSS** (não responsivo);
+<br>
+✅ Ex 05: **Unidades de Medidas, Background e Box Model** (não responsivo);
+<br>
+✅ Ex 06: **Estilização: Links, Listas e Tabelas** (não responsivo);
+<br>
+✅ Ex 07: **Position e Pseudo-Classes** (não responsivo);
+<br>
+✅ Ex 08: **Display e Flexbox** (não responsivo);
+<br>
+✅ Ex 09: **Media Queries** (responsivo).
+<br><br>
+🟠 *FUNDAMENTOS DA PROGRAMAÇÃO EM JAVASCRIPT*
+<br><br>
