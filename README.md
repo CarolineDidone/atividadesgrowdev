@@ -14,7 +14,7 @@ Status: **em andamento** ⌛
 
 🟠 *FUNDAMENTOS DO DESENVOLVIMENTO FRONT-END*
 <br><br>
-❕ Neste módulo, foram apresentados os conceitos de HTML e CSS, unidos as boas práticas na área do desenvolvimento.
+❕ Neste módulo, foram apresentados os conceitos de HTML e CSS, juntamente com as boas práticas na área do desenvolvimento.
 <br><br>
 ✅ Ex 01: **Conceitos do HTML** (não responsivo);
 <br>
