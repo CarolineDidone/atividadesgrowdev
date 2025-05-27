@@ -38,3 +38,5 @@ Status: **em andamento** ⌛
 <br><br>
 ✅ Ex 10: **Variáveis** boas práticas, entrada e saída de dados e concatenação.
 <br><br>
+✅ Ex 11: **Arrays e Objetos** entendendo suas estruturas e formas de declarações.
+<br><br>
