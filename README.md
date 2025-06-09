@@ -40,3 +40,5 @@ Status: **em andamento** ⌛
 <br>
 ✅ Ex 11: **Arrays e Objetos** entendendo suas estruturas e formas de declarações.
 <br>
+✅ Ex 12: **Condicionais simples, encadeadas e de múltiplas condições** entendendo suas estruturas e formas de declarações.
+<br>
