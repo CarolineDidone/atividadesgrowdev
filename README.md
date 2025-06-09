@@ -36,9 +36,9 @@ Status: **em andamento** ⌛
 <br><br>
 🟠 *FUNDAMENTOS DA PROGRAMAÇÃO EM JAVASCRIPT*
 <br><br>
-✅ Ex 10: **Variáveis** boas práticas, entrada e saída de dados e concatenação.
+✅ Ex 10: **Variáveis**: boas práticas, entrada e saída de dados e concatenação.
 <br>
-✅ Ex 11: **Arrays e Objetos** entendendo suas estruturas e formas de declarações.
+✅ Ex 11: **Arrays e Objetos**: entendendo suas estruturas e formas de declarações.
 <br>
-✅ Ex 12: **Condicionais simples, encadeadas e de múltiplas condições** entendendo suas estruturas e formas de declarações.
+✅ Ex 12: **Condicionais simples, encadeadas e de múltiplas condições**: entendendo suas estruturas e formas de declarações.
 <br>
